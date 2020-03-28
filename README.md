@@ -60,12 +60,19 @@ To build frontend it was used [axios](https://github.com/axios/axios) to http re
 
 ### Features
 - Register NOGs :ballot_box_with_check:
-![](/frontend/screenshot/register.png?w=512)
+
+![](/frontend/screenshot/register.png)
+
 - Login :ballot_box_with_check:
+
 ![](/frontend/screenshot/login.png)
+
 - New incidents :ballot_box_with_check:
+
 ![](/frontend/screenshot/incident.png)
+
 - Profile listing incidents :ballot_box_with_check:
+
 ![](/frontend/screenshot/profile.png)
 
 ### Running
@@ -87,6 +94,7 @@ As in frontend, mobile application builded using [axios](https://github.com/axio
 - Detail of incidents :ballot_box_with_check:
 - Email send :ballot_box_with_check:
 - Whatsapp message :ballot_box_with_check:
+
 ![](/mobile/screenrecord/record.gif)
 
 ### Running
