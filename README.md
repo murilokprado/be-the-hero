@@ -22,7 +22,7 @@ First enter on backend project
 
 `cd backend`
 
-and run 
+After, run:
 
 `npm install`
 
@@ -42,7 +42,7 @@ To execute our test we need to run
 
 `npm test`
 
-return should be
+And then the return should be look like this:
 
 ```console
 PASS  tests/unit/generateUniqueId.spec.js
