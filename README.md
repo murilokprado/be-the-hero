@@ -60,20 +60,14 @@ To build frontend it was used [axios](https://github.com/axios/axios) to http re
 
 ### Features
 - Register NOGs :ballot_box_with_check:
-
-![](/frontend/screenshot/register.png)
-
 - Login :ballot_box_with_check:
-
-![](/frontend/screenshot/login.png)
-
 - New incidents :ballot_box_with_check:
-
-![](/frontend/screenshot/incident.png)
-
 - Profile listing incidents :ballot_box_with_check:
 
-![](/frontend/screenshot/profile.png)
+|                                        |                                       |
+|----------------------------------------|---------------------------------------|
+| ![](/frontend/screenshot/register.png) | ![](/frontend/screenshot/login.png)   | 
+| ![](/frontend/screenshot/incident.png) | ![](/frontend/screenshot/profile.png) |
 
 ### Running
 First for frontend works, We'll need backend running on `http://localhost:3333` because axios will try to call this path.
