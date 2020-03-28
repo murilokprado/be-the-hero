@@ -44,7 +44,7 @@ To execute our test we need to run
 
 return should be
 
-```
+```console
 PASS  tests/unit/generateUniqueId.spec.js
 PASS  tests/integration/ong.spec.js
 
@@ -95,7 +95,7 @@ As in frontend, mobile application builded using [axios](https://github.com/axio
 As in frontend, here We'll need a backend running, but you'll need vonfig your backend IP on file [api.js](/mobile/src/services/api.js).
 This case my backend it was running on ___http://192.168.0.4:3333___ , you may to replace baseURL with your IP.
 
-```
+```javascript
 import axios from 'axios';
 
 const api = axios.create({
