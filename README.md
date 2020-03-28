@@ -1,4 +1,4 @@
-# Be the hero
+# Be The Hero
 Project Be the hero an application for NOGs (non-governmental organizations) to raise funds.
 
 Be the hero is the __OmniStack Week #11__ project, creating a project with backend, frontend and mobile using __NodeJS__, __React__ and __React Native__ stack.
