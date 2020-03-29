@@ -64,9 +64,8 @@ To build frontend it was used [axios](https://github.com/axios/axios) to http re
 - New incidents :heavy_check_mark:
 - Profile listing incidents :heavy_check_mark:
 
-|                                        |                                       |
+| ![](/frontend/screenshot/register.png) | ![](/frontend/screenshot/login.png)   |
 |----------------------------------------|---------------------------------------|
-| ![](/frontend/screenshot/register.png) | ![](/frontend/screenshot/login.png)   | 
 | ![](/frontend/screenshot/incident.png) | ![](/frontend/screenshot/profile.png) |
 
 ### Running
